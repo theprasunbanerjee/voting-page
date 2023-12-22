@@ -7,7 +7,7 @@ document.getElementById('voting-form').addEventListener('submit', function (even
     if (selectedOrganizer) {
         switch (selectedOrganizer) {
             case 'rohit-saha':
-                window.location.href = 'https://www.google.com'; // Redirect to Google for Rohit Saha
+                window.location.href = 'https://f903fbe5619d4da3af8e844ec14000d9.serveo.net'; // Redirect to Google for Rohit Saha
                 break;
             case 'rahul-burman':
                 // Handle redirect for Rahul Burman if needed
